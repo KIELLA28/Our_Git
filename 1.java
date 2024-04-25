@@ -1,5 +1,5 @@
-import javax.swing.JOptionPane;
-
+avax.swing.JOptionPane;
+ahahahah
 public class Ticket {
     public static void main (String [] args) {
         operator();
